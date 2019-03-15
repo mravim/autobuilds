@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Linux Tweet App
 
 This is very simple NGINX website that allows a user to send a tweet. 
@@ -11,3 +12,7 @@ Build it:
 
 Run it:
 `docker container run --detach -p 80:80 linux_tweet_app`
+=======
+# autobuilds
+Repository for auto builds during docker workshop in Zurich
+>>>>>>> ba2198fddf504e6412200bfb6c4f09f8ef84fbaf
